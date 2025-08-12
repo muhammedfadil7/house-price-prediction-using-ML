@@ -56,7 +56,4 @@ It combines **data analysis** and **machine learning** techniques to provide ins
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/housing-price-prediction.git
+
